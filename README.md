@@ -1,0 +1,1 @@
+# template-module2-rn-offline-sync
